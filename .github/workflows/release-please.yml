@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - test-releasetask
+      - main
 name: release-please
 jobs:
   release-please:
@@ -11,4 +11,4 @@ jobs:
         with:
           release-type: node
           package-name: release-please-action
-          default-branch: main
+          default-branch: test-relaesetask
