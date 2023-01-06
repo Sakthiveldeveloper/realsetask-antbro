@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v1.0.0...v1.1.0) (2023-01-06)
+
+
+### Features
+
+* checking with version ([df6bf02](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/df6bf02ee238433cc7bfdafa5d428d6daa149d97))
+
 ## 1.0.0 (2023-01-06)
 
 
