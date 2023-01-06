@@ -10,4 +10,5 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          package-name: test-checksakhti
+          package-name: release-please-action
+          default-branch: test-checksakhti
