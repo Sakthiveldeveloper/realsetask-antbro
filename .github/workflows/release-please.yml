@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - test-relaesetask1
+      - test-checksakhti
 name: release-please
 jobs:
   release-please:
@@ -10,4 +10,4 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          package-name: release-please-action
+          package-name: test-checksakhti
