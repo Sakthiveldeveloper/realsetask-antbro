@@ -1,0 +1,26 @@
+{
+  "name": "realsetask-antbro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakthiveldeveloper/realsetask-antbro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sakthiveldeveloper/realsetask-antbro/issues"
+  },
+  "homepage": "https://github.com/Sakthiveldeveloper/realsetask-antbro#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.0",
+    "@commitlint/config-conventional": "^17.4.0",
+    "husky": "^8.0.3"
+  }
+}
