@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - multilinechecking
+      - maintrying
 name: release-please
 jobs:
   release-please:
@@ -10,4 +10,5 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
+          default-branch: main
           package-name: release-please-action
