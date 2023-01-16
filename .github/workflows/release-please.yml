@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - test-relaesetask1
+      - multilinechecking
 name: release-please
 jobs:
   release-please:
