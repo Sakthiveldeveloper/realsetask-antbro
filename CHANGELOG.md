@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v3.0.1...v3.1.0) (2023-01-16)
+
+
+### Features
+
+* featureinverison3m5 ([a523fa9](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/a523fa9b7ba69cae1f8c73b681262ef9a455f956))
+* featureinverison3m5 ([0f1ba94](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/0f1ba9475d3e88a6a09d632a70efc2acd217bad5))
+
 ## [3.0.1](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v3.0.0...v3.0.1) (2023-01-16)
 
 

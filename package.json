@@ -1,6 +1,6 @@
 {
   "name": "realsetask-antbro",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "description": "",
   "main": "commitlint.config.js",
   "scripts": {
