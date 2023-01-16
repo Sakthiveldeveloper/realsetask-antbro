@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v1.2.1...v2.0.0) (2023-01-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* tesingbreak
+
+### Features
+
+* tesingbreak ([ba50f3f](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/ba50f3f19a355151d500b4f9224441b292a88c1c))
+
 ## [1.2.1](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v1.2.0...v1.2.1) (2023-01-16)
 
 
