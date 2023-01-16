@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v3.0.0...v3.0.1) (2023-01-16)
+
+
+### Bug Fixes
+
+* checkingversion3 ([bf8d97b](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/bf8d97b64d07c7bf59f4c9c6670e8f2192c9dda1))
+
 ## [3.0.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v2.0.0...v3.0.0) (2023-01-16)
 
 
