@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v2.0.0...v3.0.0) (2023-01-16)
+
+
+### Miscellaneous Chores
+
+* release 3.0.0 ([a67bd5e](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/a67bd5eb72abb3a6c9bc80f1f1e1d1e37c65af64))
+
 ## [2.0.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v1.2.1...v2.0.0) (2023-01-16)
 
 
