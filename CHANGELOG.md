@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v1.1.0...v1.2.0) (2023-01-16)
+
+
+### Features
+
+* checking ssh key ([d4718f1](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/d4718f12ff25d0579e5a2c176c1f6236a10b9f4d))
+* finalofthetask with multiline ([841f7ad](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/841f7ad05924a488d95db7b6549ecba5710abb44))
+* multinechecking ([408c22a](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/408c22aa9f16452ccf1cdf3cc2d41cc5753e6b2d))
+* multinechecking ([a674c53](https://github.com/Sakthiveldeveloper/realsetask-antbro/commit/a674c53db876a0dba716cd04d4b74b06532a396c))
+
 ## [1.1.0](https://github.com/Sakthiveldeveloper/realsetask-antbro/compare/v1.0.0...v1.1.0) (2023-01-06)
 
 
